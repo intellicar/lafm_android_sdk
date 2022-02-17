@@ -5,6 +5,6 @@
              http://maven.apache.org/maven-v4_0_0.xsd">
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.intellicar.blesdk</groupId>
-   <artifactId>LAFM</artifactId>
+   <artifactId>blesdk</artifactId>
    <version>1.0</version>
 </project>
