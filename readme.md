@@ -11,4 +11,4 @@ Xcode File -> add packages -> search for "https://github.com/intellicar/ace_ios_
 ```
 
 ## Documentation
-Please visit [Documentation](https://github.com/intellicar/lafm_ios_sdk/wiki/Home)
+Please visit [Documentation](https://github.com/intellicar/lafm_android_sdk/wiki/Home)
