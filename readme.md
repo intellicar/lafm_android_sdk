@@ -9,6 +9,8 @@ allprojects {
     }
 }
 ```
+As of the 7.X.X gradle build tools - allprojects is deprecated
+In that case follow Step 3 ->
 
 ### - Step 2- Add the dependency in your app build.gradle
 ```groovy
@@ -20,7 +22,7 @@ dependencies {
 Please replace x, y and z with the latest version
 numbers: ![](https://jitpack.io/v/intellicar/lafm_android_sdk.svg)
 
-### - Step 3- Optional (If step 1 not working)
+### - Step 3- Optional 
 
 As of the 7.X.X gradle build tools. allprojects is deprecated use of dependencyResolutionManagement is the best practice for declaring repositories in every subproject of your build. Because of this Android projects will no longer generate with allprojects blocks in their project build.gradle files. It will instead generate a dependencyResolutionManagement block in settings.gradle.
 
