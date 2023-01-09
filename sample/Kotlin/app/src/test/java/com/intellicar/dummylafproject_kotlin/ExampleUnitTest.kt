@@ -1,4 +1,4 @@
-package com.intellicar.dummylafproject
+package com.intellicar.dummylafproject_kotlin
 
 import org.junit.Test
 
