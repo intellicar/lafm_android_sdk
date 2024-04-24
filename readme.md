@@ -16,7 +16,7 @@ In that case follow Step 3 ->
 ```groovy
 dependencies {
     ...
-    implementation 'com.github.intellicar:lafm_android_sdk:x.y.z'
+    implementation 'com.github.intellicar:lafm_android_sdk:0.0.90'
 }
 //Latest version 0.0.90
 ```
