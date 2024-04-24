@@ -18,7 +18,7 @@ dependencies {
     ...
     implementation 'com.github.intellicar:lafm_android_sdk:x.y.z'
 }
-//Latest version 0.0.80
+//Latest version 0.0.90
 ```
 Please replace x, y and z with the latest version
 numbers: ![](https://jitpack.io/v/intellicar/lafm_android_sdk.svg)
