@@ -16,9 +16,8 @@ In that case follow Step 3 ->
 ```groovy
 dependencies {
     ...
-    implementation 'com.github.intellicar:lafm_android_sdk:0.0.96'
+    implementation 'com.github.intellicar:lafm_android_sdk:0.0.109'
 }
-//Latest version 0.0.96
 ```
 Please replace x, y and z with the latest version
 numbers: ![](https://jitpack.io/v/intellicar/lafm_android_sdk.svg)
